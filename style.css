@@ -1,0 +1,11 @@
+.disclaimer {
+  margin: 1em;
+  padding: 4px;
+  border: 1px solid hotpink;
+}
+
+body {
+  background-color:black;
+  text-align: center;
+  color: white;
+}
